@@ -1,3 +1,5 @@
+Author: Vo Tran Thanh Luong. Also, I would like to thank all the contributors/translators for your work making this greater.
+
 # Markdown Tutorial 
 ![](http://i.imgur.com/IMTN5cy.png)  
 
